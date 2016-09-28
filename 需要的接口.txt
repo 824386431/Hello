@@ -1,0 +1,12 @@
+api/dictionary/map/DS0003/api/warehouse/area
+
+
+
+接口一：返回所有大区编码和大区名称的map集合
+
+
+接口二：根据大区code 返回城市编码和城市名称的map集合
+
+
+接口三：根据城市code 返回店铺编码和名字的map集合
+       
